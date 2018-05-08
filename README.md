@@ -1,0 +1,2 @@
+# ulangantengah
+uts pemrograman
